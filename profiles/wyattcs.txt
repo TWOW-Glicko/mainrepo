@@ -1,0 +1,639 @@
+May '18
+8th      Vanished S3 R1          - 67.06    47 / 80  
+18th     Vanished S3 R2          -260.59    54 / 62  
+
+    Score:    2892.52        ΔScore:   +  0.00
+    RM:       4172.35        ΔRM:      +  0.00
+    RD:       639.92         ΔRD:      +  0.00
+    RP:       2              ΔRP:      +  0.00
+
+
+Jun '18
+21st     J&B S1 R1               -  1.37   224 / 369 
+
+    Score:    3066.04        ΔScore:   +173.53
+    RM:       4170.98        ΔRM:      -  1.37
+    RD:       552.47         ΔRD:      - 87.45
+    RP:       3              ΔRP:      +  1.00
+
+
+Jul '18
+7th      J&B S1 R2               +203.22   119 / 271 
+
+    Score:    3352.67        ΔScore:   +286.63
+    RM:       4374.2         ΔRM:      +203.22
+    RD:       510.77         ΔRD:      - 41.70
+    RP:       4              ΔRP:      +  1.00
+
+
+Aug '18
+2nd      Pillar S5 R1            - 69.42    36 / 46  
+10th     Pillar S5 R2            +100.44    14 / 31  
+17th     Pillar S5 R3            - 40.65    18 / 22  
+18th     Dark S9 R1              +138.74    76 / 192 
+20th     J&B S1 R3               +236.49    37 / 205 
+26th     Dark S9 R2              -174.08   133 / 138 
+
+    Score:    3806.68        ΔScore:   +454.01
+    RM:       4565.74        ΔRM:      +191.53
+    RD:       379.53         ΔRD:      -131.24
+    RP:       10             ΔRP:      +  6.00
+
+
+Sep '18
+15th     J&B S1 R4               + 31.80    84 / 154 
+19th     Eli S5 R1               +  7.86    17 / 31  
+21st     96 S0 R1                +117.99    17 / 75  
+28th     Dave S2 R1              - 49.57    61 / 86  
+30th     96 S0 R2                - 28.32    45 / 64  
+
+    Score:    3972.26        ΔScore:   +165.58
+    RM:       4645.48        ΔRM:      + 79.75
+    RD:       336.61         ΔRD:      - 42.91
+    RP:       15             ΔRP:      +  5.00
+
+
+Oct '18
+3rd      Eli S5 R2               + 37.20    11 / 27  
+8th      Doubled S1 R1           + 49.80     9 / 38  
+10th     96 S0 R3                + 23.14    26 / 50  
+14th     Dave S2 R2              - 73.23    60 / 68  
+16th     Dell S5 R1              +119.51     4 / 76  
+19th     96 S0 R4                - 11.99    23 / 32  
+20th     Eli S5 R3               + 21.65     9 / 20  
+20th     J&B S1 R5               -  6.44    72 / 118 
+23rd     Dell S5 R2              +  3.09    32 / 60  
+26th     Eli S5 R4               +  1.40     9 / 15  
+28th     Dell S5 R3              + 18.41    23 / 48  
+
+    Score:    4252.05        ΔScore:   +279.79
+    RM:       4828.04        ΔRM:      +182.55
+    RD:       288.0          ΔRD:      - 48.62
+    RP:       26             ΔRP:      + 11.00
+
+
+Nov '18
+2nd      Eli S5 R5               + 56.03     2 / 10  
+3rd      Heronix S3 R1           - 88.91    48 / 48  
+6th      Dell S5 R4              + 48.16    12 / 37  
+7th      Eli S5 R6               +  3.73     5 / 8   
+8th      TWOWlight S5 R1         - 46.92    69 / 89  
+9th      J&B S1 R6               +111.95     4 / 93  
+13rd     Dell S5 R5              -  8.35    21 / 30  
+13rd     Eli S5 R7               + 56.74     1 / 6   
+15th     Achoo S2 (II) R7        + 12.89     6 / 16  
+20th     Dell S5 R6              - 12.99    18 / 24  
+22nd     Eli S5 R8               - 14.33     4 / 5   
+28th     Dell S5 R7              - 13.55    15 / 19  
+28th     Eli S5 R9               + 18.79     2 / 4   
+29th     Achoo S2 (II) R8        -  3.50     7 / 13  
+
+    Score:    4411.5         ΔScore:   +159.45
+    RM:       4947.78        ΔRM:      +119.75
+    RD:       268.14         ΔRD:      - 19.85
+    RP:       40             ΔRP:      + 14.00
+
+
+Dec '18
+3rd      Action S3 R1            +  0.83    22 / 47  
+3rd      Eli S5 R10              - 31.51     3 / 3   
+4th      Dell S5 R8              +  4.69    10 / 15  
+7th      trwow S2 R1             - 17.18    46 / 81  
+11st     Achoo S2 (II) R9        - 10.09     7 / 10  
+12nd     Dell S5 R9              -  1.85     9 / 12  
+14th     Action S3 R2            + 19.91    13 / 35  
+22nd     doggo S3 R1             - 12.06    33 / 56  
+23rd     Dell S5 R10             - 15.64     9 / 10  
+23rd     trwow S2 R2             - 31.12    44 / 62  
+24th     Action S3 R3            - 50.96    27 / 28  
+
+    Score:    4267.44        ΔScore:   -144.05
+    RM:       4802.81        ΔRM:      -144.98
+    RD:       267.68         ΔRD:      -  0.46
+    RP:       51             ΔRP:      + 11.00
+
+
+Jan '19
+1st      Dell S5 R11             + 11.67     6 / 9   
+5th      Achoo S2 (II) R10       + 41.09     2 / 8   
+7th      doggo S3 R2             + 54.51     8 / 39  
+8th      Dell S5 R12             - 23.96     8 / 8   
+12nd     trwow S2 R3             - 11.71    32 / 50  
+16th     doggo S3 R3             + 12.95    16 / 30  
+19th     Doubled S2 R1           + 29.48    16 / 64  
+24th     Fitness S5 R1           + 17.54     8 / 28  
+26th     Doubled S2 R2           + 11.50    18 / 49  
+26th     doggo S3 R4             - 32.26    21 / 23  
+31st     Fitness S5 R2           - 18.23    13 / 22  
+31st     G&A S3 R1               - 18.16    36 / 65  
+
+    Score:    4355.77        ΔScore:   + 88.33
+    RM:       4877.23        ΔRM:      + 74.42
+    RD:       260.73         ΔRD:      -  6.95
+    RP:       63             ΔRP:      + 12.00
+
+
+Feb '19
+2nd      Doubled S2 R3           - 60.02    35 / 36  
+8th      thenamesh S1 R1         + 24.05    25 / 55  
+10th     G&A S3 R2               + 59.04     5 / 49  
+11st     Fitness S5 R3           + 23.98     5 / 18  
+16th     thenamesh S1 R2         +  1.03    27 / 44  
+18th     Fitness S5 R4           + 11.98     6 / 15  
+18th     G&A S3 R3               + 53.44     5 / 40  
+21st     Fitness S5 R5           +  1.80     6 / 12  
+23rd     thenamesh S1 R3         + 38.52    12 / 34  
+28th     Fitness S5 R6           - 34.36     8 / 9   
+28th     G&A S3 R4               + 38.51     7 / 31  
+
+    Score:    4522.71        ΔScore:   +166.93
+    RM:       5035.2         ΔRM:      +157.96
+    RD:       256.25         ΔRD:      -  4.48
+    RP:       74             ΔRP:      + 11.00
+
+
+Mar '19
+2nd      thenamesh S1 R4         -  5.60    19 / 27  
+3rd      Achoo S2 (II) R11       - 25.52     7 / 8   
+7th      Fitness S5 R7           + 32.05     2 / 8   
+9th      G&A S3 R5               -  1.61    14 / 24  
+9th      thenamesh S1 R5         -  5.51    16 / 22  
+15th     Cole S1 R1              + 46.86     9 / 51  
+15th     Fitness S5 R8           + 46.05     1 / 7   
+16th     thenamesh S1 R6         +  6.24    11 / 18  
+17th     G&A S3 R6               - 45.42    20 / 20  
+22nd     Fitness S5 R9           -  6.17     4 / 6   
+23rd     thenamesh S1 R7         - 30.81    14 / 14  
+23rd     trasma R1               + 38.57    11 / 62  
+26th     Cole S1 R2              +  8.17    19 / 41  
+26th     Dave S3 R1              +  5.80    52 / 117 
+29th     Fitness S5 R10          - 17.29     4 / 5   
+30th     Heronix S4 R1           + 28.30    20 / 70  
+
+    Score:    4618.41        ΔScore:   + 95.70
+    RM:       5109.35        ΔRM:      + 74.15
+    RD:       245.47         ΔRD:      - 10.77
+    RP:       90             ΔRP:      + 16.00
+
+
+Apr '19
+3rd      Dave S3 R2              - 30.55    64 / 91  
+10th     trasma R22              + 46.84     1 / 21  
+11st     Cole S1 R3              + 32.36     9 / 32  
+11st     Dave S3 R3              + 69.84     7 / 71  
+13rd     Bled S0 R1              - 12.73     9 / 16  
+14th     JCL S13 R1              +  3.11   111 / 295 
+15th     Dave S3 R4              + 44.30    12 / 53  
+18th     astrapeboy S1 R1        +  7.29     6 / 21  
+19th     Dave S3 R5              - 28.70    35 / 43  
+23rd     trasma R3               +  0.13    16 / 33  
+25th     Bled S0 R2              + 29.77     2 / 13  
+
+    Score:    4768.06        ΔScore:   +149.65
+    RM:       5271.0         ΔRM:      +161.65
+    RD:       251.47         ΔRD:      +  6.00
+    RP:       101            ΔRP:      + 11.00
+
+
+May '19
+1st      Kanon S1 R1             -  6.45     9 / 20  
+2nd      Bled S0 R3              - 19.33     7 / 10  
+3rd      Cole S1 R4              - 25.73    19 / 24  
+9th      Bled S0 R4              - 21.30     6 / 8   
+11st     mazuat S4 R1            + 50.53    11 / 103 
+16th     Kanon S1 R2             - 47.41    13 / 15  
+17th     Achoo S2 (II) R12       + 16.80     3 / 6   
+18th     mazuat S4 R2            + 29.99    18 / 78  
+19th     J&B S1 R7               -  3.70    38 / 71  
+19th     trasma R41              + 11.46     6 / 14  
+21st     Hi dar S2 R1            - 50.98    21 / 24  
+22nd     Cole S1 R5              + 22.13     8 / 21  
+27th     Dell S6 R1              - 21.98    35 / 57  
+27th     mazuat S4 R3            + 32.52    13 / 58  
+
+    Score:    4738.37        ΔScore:   - 29.68
+    RM:       5237.5         ΔRM:      - 33.50
+    RD:       249.56         ΔRD:      -  1.91
+    RP:       115            ΔRP:      + 14.00
+
+
+Jun '19
+2nd      Dell S6 R2              + 54.54     3 / 43  
+2nd      Doubled S3 R1           - 26.93    70 / 129 
+3rd      trasma R5               - 23.70    17 / 21  
+4th      Cole S1 R6              + 35.62     4 / 17  
+4th      mazuat S4 R4            -  6.29    24 / 43  
+10th     Dell S6 R3              - 16.14    23 / 34  
+10th     Doubled S3 R2           + 36.08    20 / 95  
+13rd     Achoo S2 (II) R13       - 28.16     5 / 5   
+14th     mazuat S4 R5            + 12.08    15 / 34  
+15th     Hi dar S2 R2            - 26.79    13 / 19  
+15th     JCL S13 R2              + 12.64    69 / 191 
+15th     cowb S1 R1              -  2.07     5 / 10  
+17th     Dell S6 R4              - 31.79    23 / 26  
+18th     Doubled S3 R3           + 14.34    28 / 74  
+20th     Cole S1 R7              - 26.36    13 / 14  
+21st     mazuat S4 R6            -  9.24    18 / 27  
+22nd     cowb S1 R2              + 12.61     3 / 7   
+24th     Tai S6 R1               + 25.13     8 / 38  
+28th     Doubled S3 R4           + 47.52     8 / 55  
+29th     cowb S1 R3              - 33.18     6 / 6   
+
+    Score:    4781.67        ΔScore:   + 43.30
+    RM:       5257.45        ΔRM:      + 19.95
+    RD:       237.89         ΔRD:      - 11.67
+    RP:       135            ΔRP:      + 20.00
+
+
+Jul '19
+2nd      Tai S6 R2               + 18.95     8 / 27  
+8th      Tai S6 R3               - 23.70    17 / 23  
+11st     Doubled S3 R5           +  7.28    21 / 45  
+15th     Tai S6 R4               - 10.61    12 / 18  
+19th     Doubled S3 R6           - 53.83    32 / 32  
+23rd     Tai S6 R5               + 42.75     3 / 14  
+28th     Europe S3 R1            + 27.80     6 / 34  
+28th     Tai S6 R6               + 12.26     6 / 11  
+29th     Marble volcano S1 R1    +  0.93    13 / 30  
+
+    Score:    4767.43        ΔScore:   - 14.24
+    RM:       5279.25        ΔRM:      + 21.80
+    RD:       255.91         ΔRD:      + 18.02
+    RP:       144            ΔRP:      +  9.00
+
+
+Aug '19
+2nd      Tai S6 R7               - 32.17     8 / 8   
+4th      Hi dar S2 R3            + 14.30     4 / 13  
+6th      Fluctuation S1 R1       - 19.49     8 / 12  
+6th      Marble volcano S1 R2    + 43.99     2 / 23  
+13rd     Fluctuation S1 R2       -  3.11     5 / 10  
+13rd     G&A S4 R1               - 64.62    77 / 100 
+14th     Marble volcano S1 R3    + 20.26     6 / 18  
+14th     Vapid S2 R1             + 17.77    29 / 74  
+16th     thenamesh S2 R1         + 28.24    26 / 85  
+17th     trwow S2.5 R1           + 32.90     8 / 45  
+21st     G&A S4 R2               + 38.62    16 / 76  
+23rd     Europe S3 R2            - 18.83    17 / 30  
+23rd     Fluctuation S1 R3       +  5.44     3 / 7   
+23rd     Marble volcano S1 R4    + 17.98     5 / 15  
+24th     Vapid S2 R2             + 41.66    12 / 59  
+24th     thenamesh S2 R2         + 25.65    20 / 64  
+25th     michael S4 R1           - 13.73    12 / 24  
+26th     Brando S2 R1            + 25.52    17 / 72  
+26th     J&B S1 R8               - 54.91    53 / 56  
+27th     mazuat S4 R7            -  0.93    12 / 22  
+31st     G&A S4 R3               + 14.73    22 / 60  
+31st     Marble volcano S1 R5    -  1.75     7 / 12  
+31st     thenamesh S2 R3         - 36.12    44 / 51  
+
+    Score:    4908.15        ΔScore:   +140.72
+    RM:       5360.65        ΔRM:      + 81.40
+    RD:       226.25         ΔRD:      - 29.66
+    RP:       167            ΔRP:      + 23.00
+
+
+Sep '19
+1st      Fluctuation S1 R4       +  2.90     3 / 6   
+2nd      Brando S2 R2            -  0.50    28 / 56  
+2nd      Vapid S2 R3             - 16.03    32 / 45  
+8th      Brando S2 R3            - 44.95    41 / 43  
+8th      G&A S4 R4               - 23.59    35 / 47  
+8th      Marble volcano S1 R6    - 22.07     9 / 10  
+10th     Vapid S2 R4             - 18.50    28 / 35  
+11st     Fluctuation S1 R5       -  8.79     3 / 4   
+17th     Vapid S2 R5             + 18.60    13 / 27  
+18th     G&A S4 R5               + 15.22    16 / 35  
+22nd     Heronix S5 R1           + 39.94    14 / 86  
+23rd     Europe S3 R3            -  5.38    13 / 27  
+23rd     Fluctuation S1 R6       + 30.37     1 / 4   
+23rd     Vapid S2 R6             - 12.99    15 / 18  
+28th     G&A S4 R6               +  6.77    15 / 27  
+28th     Heronix S5 R2           +  0.61    28 / 61  
+
+    Score:    4847.31        ΔScore:   - 60.84
+    RM:       5322.25        ΔRM:      - 38.40
+    RD:       237.47         ΔRD:      + 11.22
+    RP:       183            ΔRP:      + 16.00
+
+
+Oct '19
+4th      Fluctuation S1 R7       - 36.66     3 / 3   
+5th      Heronix S5 R3           -  0.17    21 / 42  
+7th      G&A S4 R7               - 11.52    17 / 22  
+11st     Madeline S1 (II) R1     + 17.56    24 / 75  
+12nd     Heronix S5 R4           - 15.85    23 / 34  
+13rd     iTeoti S1 R1            + 19.50    14 / 50  
+14th     G&A S4 R8               - 20.91    16 / 18  
+16th     Dell S7 R1              +  9.85    31 / 86  
+17th     Uxinator S1 R1          +  3.63    16 / 44  
+18th     Europe S3 R4            - 24.00    16 / 22  
+18th     Madeline S1 (II) R2     + 36.78    11 / 56  
+19th     Heronix S5 R5           + 40.91     4 / 25  
+24th     Dell S7 R2              -  3.19    31 / 63  
+25th     Bled S2 R1              + 28.26    20 / 90  
+25th     Madeline S1 (II) R3     + 56.35     1 / 44  
+26th     Heronix S5 R6           - 20.90    16 / 20  
+27th     Uxinator S1 R2          + 19.67     8 / 33  
+
+    Score:    4946.84        ΔScore:   + 99.52
+    RM:       5421.55        ΔRM:      + 99.30
+    RD:       237.36         ΔRD:      -  0.11
+    RP:       200            ΔRP:      + 17.00
+
+
+Nov '19
+1st      Madeline S1 (II) R4     - 18.14    23 / 34  
+2nd      Bled S2 R2              +  0.70    29 / 67  
+2nd      Heronix S5 R7           +  9.00     8 / 16  
+3rd      Dell S7 R3              + 28.89    12 / 49  
+4th      Epsilon S1 R1           - 15.56    21 / 36  
+6th      Uxinator S1 R3          - 40.96    22 / 25  
+8th      Doubled S4 R1           - 33.06    86 / 156 
+9th      Bled S2 R3              + 41.87     6 / 50  
+9th      Heronix S5 R8           -  3.27     9 / 13  
+9th      Madeline S1 (II) R5     + 45.17     2 / 27  
+10th     Epsilon S1 R2           + 22.55     6 / 27  
+11st     Dell S7 R4              - 26.36    26 / 34  
+12nd     iTeoti S1 R2            - 21.38    23 / 34  
+16th     Bled S2 R4              + 29.83     9 / 38  
+17th     Epsilon S1 R3           - 25.39    15 / 19  
+17th     Italic S4 R1            - 47.26    31 / 38  
+18th     Doubled S4 R2           - 33.09    76 / 120 
+22nd     Bled S2 R5              - 12.14    21 / 30  
+23rd     Dell S7 R5              + 18.82    10 / 27  
+23rd     Epsilon S1 R4           -  5.34    10 / 16  
+23rd     Madeline S1 (II) R6     + 32.00     5 / 22  
+24th     Heronix S5 R10          - 23.87     9 / 9   
+28th     Doubled S4 R3           +  2.38    40 / 91  
+29th     Bled S2 R6              - 33.15    23 / 24  
+29th     Italic S4 R2            + 15.82     7 / 26  
+30th     Epsilon S1 R5           -  3.04     8 / 13  
+30th     Madeline S1 (II) R7     + 23.18     6 / 18  
+
+    Score:    4904.47        ΔScore:   - 42.36
+    RM:       5349.75        ΔRM:      - 71.80
+    RD:       222.64         ΔRD:      - 14.72
+    RP:       227            ΔRP:      + 27.00
+
+
+Dec '19
+1st      Dell S7 R6              +  7.25    11 / 22  
+5th      Epsilon S1 R6           + 11.20     4 / 9   
+6th      michael S4 R2           -  9.69     8 / 15  
+7th      Dell S7 R7              + 22.80     6 / 17  
+8th      Reselectings S1 R1      +  3.51    21 / 56  
+10th     Doubled S4 R4           + 49.46     6 / 70  
+10th     Epsilon S1 R7           + 27.02     2 / 7   
+13rd     Madeline S1 (II) R8     +  9.05     7 / 14  
+15th     Epsilon S1 R8           + 11.26     3 / 6   
+15th     Reselectings S1 R2      - 24.65    33 / 55  
+17th     Dell S7 R8              + 34.58     3 / 14  
+20th     Epsilon S1 R9           - 30.98     5 / 5   
+20th     Madeline S1 (II) R9     - 17.09     9 / 11  
+23rd     Doubled S4 R5           -  2.96    29 / 56  
+23rd     Reselectings S1 R3      -  4.36    24 / 54  
+27th     Dell S7 R9              + 13.56     6 / 12  
+27th     Madeline S1 (II) R10    + 25.73     3 / 8   
+
+    Score:    4996.45        ΔScore:   + 91.98
+    RM:       5475.45        ΔRM:      +125.70
+    RD:       239.5          ΔRD:      + 16.86
+    RP:       244            ΔRP:      + 17.00
+
+
+Jan '20
+2nd      Doubled S4 R6           +  7.03    20 / 44  
+4th      Madeline S1 (II) R11    + 19.68     3 / 6   
+4th      Reselectings S1 R4      - 32.44    31 / 44  
+5th      Dell S7 R10             - 18.07     9 / 10  
+5th      michael S4 R3           - 28.09     8 / 10  
+9th      Doubled S4 R7           - 22.52    27 / 35  
+11st     Cohaki S1 R1            - 15.28    38 / 74  
+11st     Madeline S1 (II) R12    - 20.59     5 / 5   
+17th     Purple S5 R1            + 82.85    22 / 440 
+19th     Doubled S4 R8           - 37.22    27 / 28  
+25th     Cohaki S1 R2            + 40.57     7 / 52  
+
+    Score:    4943.07        ΔScore:   - 53.38
+    RM:       5451.35        ΔRM:      - 24.10
+    RD:       254.14         ΔRD:      + 14.64
+    RP:       255            ΔRP:      + 11.00
+
+
+Feb '20
+5th      Murder S4 R1            - 32.40    40 / 62  
+6th      G&A S5 R1               + 19.05    34 / 120 
+16th     G&A S5 R2               -  8.17    43 / 91  
+21st     Samburger S4 R1         +  2.60    18 / 52  
+23rd     G&A S5 R3               - 10.76    37 / 68  
+24th     OK S1 R1                + 25.81    27 / 88  
+
+    Score:    4918.13        ΔScore:   - 24.94
+    RM:       5447.5         ΔRM:      -  3.85
+    RD:       264.69         ΔRD:      + 10.55
+    RP:       261            ΔRP:      +  6.00
+
+
+Mar '20
+1st      G&A S5 R4               + 13.80    23 / 55  
+4th      Purple S5 R2            + 64.23    51 / 329 
+5th      OK S1 R2                +  7.86    29 / 71  
+5th      TieTie S1 R1            + 45.21     2 / 39  
+6th      Samburger S4 R2         - 23.82    22 / 39  
+7th      Murder S4 R2            - 54.22    37 / 39  
+7th      mazuat S4 R8            + 13.90     6 / 15  
+8th      G&A S5 R5               - 18.26    28 / 41  
+13rd     TieTie S1 R2            + 41.80     3 / 30  
+15th     G&A S5 R6               - 43.34    30 / 32  
+16th     OK S1 R3                - 34.17    42 / 55  
+17th     Samburger S4 R3         - 45.95    26 / 30  
+19th     Paper S1 R1             - 28.05    19 / 28  
+19th     TieTie S1 R3            + 36.60     4 / 23  
+23rd     Cohaki S1 R3            - 43.45    33 / 39  
+23rd     Marblime S2 R1          + 19.23    21 / 80  
+23rd     mazuat S4 R9            + 46.51     1 / 12  
+26th     TieTie S1 R4            - 19.07    13 / 17  
+27th     cowb S2 R1              - 10.17     8 / 13  
+31st     Brando S3 R1            + 27.58     6 / 34  
+31st     MRFE S3 R1              - 20.69    33 / 64  
+31st     OK S1 R4                +  4.16    24 / 44  
+
+    Score:    4959.02        ΔScore:   + 40.89
+    RM:       5427.2         ΔRM:      - 20.30
+    RD:       234.09         ΔRD:      - 30.60
+    RP:       283            ΔRP:      + 22.00
+
+
+Apr '20
+1st      Dell S8 R1              + 34.77    18 / 103 
+2nd      Marblime S2 R2          + 31.19    13 / 63  
+2nd      TieTie S1 R5            + 36.56     2 / 14  
+4th      iTeoti S1 R3            - 37.21    24 / 30  
+8th      Dell S8 R2              + 34.00    16 / 79  
+9th      Doubled S5 R1           - 24.99   109 / 253 
+9th      TieTie S1 R6            + 40.05     1 / 11  
+9th      starshooter S1 R1       + 19.76     2 / 7   
+10th     Bled S3 R1              + 12.97    28 / 103 
+10th     MRFE S3 R2              + 28.21     6 / 48  
+10th     Paper S1 R2             +  7.94     7 / 23  
+11st     OK S1 R5                + 16.85    14 / 34  
+12nd     Marblime S2 R3          + 10.66    18 / 48  
+13rd     Dell S8 R3              - 43.79    49 / 59  
+14th     Dark S-1 R1             -  9.61    50 / 124 
+16th     TieTie S1 R7            - 28.81     9 / 9   
+17th     Bled S3 R2              + 11.03    27 / 81  
+18th     MRFE S3 R3              - 28.38    27 / 37  
+19th     Brando S3 R4            + 26.46     6 / 31  
+20th     Dark S-1 R2             + 35.13    13 / 93  
+25th     Bled S3 R3              + 28.94    13 / 62  
+25th     Dark S-1 R3             - 16.76    40 / 69  
+26th     MRFE S3 R4              - 15.94    19 / 30  
+28th     Marblime S2 R4          -  4.66    22 / 38  
+29th     Marblime S2 R5          + 28.27    10 / 38  
+30th     Dark S-1 R4             - 24.33    38 / 55  
+
+    Score:    5148.93        ΔScore:   +189.91
+    RM:       5595.45        ΔRM:      +168.25
+    RD:       223.26         ΔRD:      - 10.83
+    RP:       309            ΔRP:      + 26.00
+
+
+May '20
+1st      Bled S3 R4              + 42.94     6 / 49  
+2nd      OK S1 R6                -  9.44    19 / 27  
+7th      Dark S-1 R5             - 50.53    42 / 44  
+8th      Bled S3 R5              + 36.16     9 / 39  
+11st     Crayola S1 R1           + 20.67     3 / 23  
+15th     Bled S3 R6              - 32.29    26 / 29  
+16th     Crafty S3 R1            - 37.99    75 / 128 
+18th     OK S1 R7                + 24.27     8 / 21  
+19th     Crayola S1 R2           + 25.74     2 / 18  
+23rd     Crafty S3 R2            - 40.79    64 / 99  
+25th     Marblime S2 R6          - 16.63    19 / 24  
+28th     Crayola S1 R3           + 28.10     2 / 15  
+
+    Score:    5094.16        ΔScore:   - 54.78
+    RM:       5585.7         ΔRM:      -  9.75
+    RD:       245.77         ΔRD:      + 22.52
+    RP:       321            ΔRP:      + 12.00
+
+
+Jun '20
+3rd      Crafty S3 R3            + 25.75    21 / 78  
+3rd      OK S1 R8                -  1.78    12 / 18  
+11st     Crafty S3 R4            +  8.29    26 / 63  
+13rd     Marblime S2 R8          +  1.07     9 / 13  
+15th     noef S1 R1              - 42.52    44 / 69  
+17th     mazuat S4 R10           -  8.12     7 / 10  
+22nd     Crafty S3 R5            -  6.28    27 / 48  
+23rd     Marblime S2 R9          +  3.98     7 / 10  
+25th     Medieval S1 R1          + 26.12    24 / 114 
+25th     noef S1 R2              + 28.04    12 / 53  
+29th     Crafty S3 R6            - 56.71    39 / 39  
+
+    Score:    5063.04        ΔScore:   - 31.11
+    RM:       5563.5         ΔRM:      - 22.20
+    RD:       250.23         ΔRD:      +  4.46
+    RP:       332            ΔRP:      + 11.00
+
+
+Jul '20
+5th      Alley S3 R1             + 58.90    13 / 138 
+6th      Toadoopa S2 R1          - 57.74    38 / 52  
+7th      Marblime S2 R10         - 21.17     8 / 8   
+8th      noef S1 R3              +  6.66    18 / 40  
+12nd     trasma R6               +  9.53     6 / 13  
+13rd     Toadoopa S2 R2          + 39.41     3 / 39  
+14th     Alley S3 R2             + 35.84    23 / 107 
+23rd     Medieval S1 R2          - 63.62    67 / 85  
+23rd     OK S1 R10               - 20.78    11 / 12  
+24th     OK S1 R9                + 22.32     7 / 15  
+24th     Toadoopa S2 R3          + 27.04     6 / 29  
+24th     trasma R72              - 32.33     5 / 5   
+27th     noef S1 R4              - 31.37    26 / 32  
+30th     TieTie S2 R1            + 51.47    18 / 175 
+
+    Score:    5095.42        ΔScore:   + 32.38
+    RM:       5587.7         ΔRM:      + 24.20
+    RD:       246.14         ΔRD:      -  4.09
+    RP:       346            ΔRP:      + 14.00
+
+
+Aug '20
+1st      Heronix S6 R1           - 18.71    58 / 131 
+1st      Toadoopa S2 R4          + 27.69     5 / 21  
+3rd      Cause S1 R1             + 19.04     6 / 26  
+3rd      Epsilon S3 R1           + 37.52     4 / 78  
+4th      Yoshi S2 R1             - 37.24    64 / 116 
+6th      Purple S5 R3            + 56.85    28 / 224 
+8th      noef S1 R5              + 24.31     8 / 25  
+9th      Alley S3 R3             + 16.01    28 / 82  
+9th      Heronix S6 R2           - 23.11    52 / 101 
+11st     Cause S1 R2             + 24.49     3 / 17  
+13rd     Epsilon S3 R2           - 58.71    47 / 58  
+14th     Zero Escape S1 R2       +  6.71    15 / 54  
+16th     Heronix S6 R3           -  9.42    37 / 77  
+17th     Foxy S4 R1              + 20.72     9 / 59  
+20th     MRFE S4 R1              + 10.96    21 / 91  
+22nd     TieTie S2 R2            +  8.23    42 / 132 
+23rd     Heronix S6 R4           + 15.69    19 / 60  
+23rd     Yoshi S2 R2             +  4.36    31 / 89  
+24th     Epsilon S3 R3           +  4.77    15 / 45  
+26th     Alley S3 R4             - 46.73    51 / 58  
+27th     Zero Escape S1 R22      + 36.56     2 / 41  
+28th     Cause S1 R3             -  1.94     6 / 12  
+29th     Foxy S4 R2              -  9.05    18 / 41  
+30th     MRFE S4 R2              +  1.28    23 / 67  
+30th     TieTie S2 R3            - 18.50    58 / 106 
+
+    Score:    5228.78        ΔScore:   +133.35
+    RM:       5679.45        ΔRM:      + 91.75
+    RD:       225.34         ΔRD:      - 20.80
+    RP:       371            ΔRP:      + 25.00
+
+
+Sep '20
+2nd      Epsilon S3 R4           +  0.11    13 / 31  
+5th      Heronix S6 R5           +  8.05    18 / 43  
+6th      noef S1 R6              + 22.07     6 / 17  
+7th      Yoshi S2 R3             - 35.47    48 / 67  
+8th      TieTie S2 R4            + 37.24    16 / 85  
+8th      Zero Escape S1 R32      + 38.03     1 / 28  
+9th      Doubled S6 R1           + 41.21    16 / 300 
+13rd     Epsilon S3 R5           - 37.68    22 / 25  
+13rd     Heronix S6 R6           - 32.95    29 / 35  
+13rd     Toadoopa S2 R5          +  3.86     8 / 17  
+16th     MRFE S4 R3              - 31.68    35 / 51  
+18th     TieTie S2 R5            - 42.88    55 / 66  
+20th     Doubled S6 R2           +  8.56    62 / 228 
+20th     Zero Escape S1 R42      -  2.42    11 / 20  
+30th     Marblime S3 R1          + 58.66     1 / 93  
+
+    Score:    5240.97        ΔScore:   + 12.20
+    RM:       5714.2         ΔRM:      + 34.75
+    RD:       236.61         ΔRD:      + 11.28
+    RP:       386            ΔRP:      + 15.00
+
+
+Oct '20
+2nd      Doubled S6 R3           + 61.25     3 / 173 
+4th      Yoshi S2 R4             - 23.43    35 / 51  
+8th      Marblime S3 R2          + 54.86     2 / 66  
+9th      Foxy S4 R3              + 35.42     2 / 28  
+10th     MRFE S4 R4              + 16.08    12 / 41  
+11st     Zero Escape S1 R52      + 19.04     5 / 15  
+14th     Doubled S6 R4           + 26.71    26 / 138 
+18th     Marblime S3 R3          + 13.61    16 / 50  
+19th     noef S1 R7              + 21.31     5 / 14  
+24th     Doubled S6 R5           + 10.01    33 / 110 
+24th     MRFE S4 R5              - 10.82    17 / 32  
+25th     neonex S1 R1            + 14.90    17 / 79  
+31st     Zero Escape S1 R62      + 35.80     2 / 11  
+
+    Score:    5499.59        ΔScore:   +258.62
+    RM:       5988.95        ΔRM:      +274.75
+    RD:       244.68         ΔRD:      +  8.07
+    RP:       399            ΔRP:      + 13.00
+
+
