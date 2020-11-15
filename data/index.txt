@@ -414,7 +414,6 @@ VÚD S3
 VÚDCZ S1
 VÚDCZ S2
 Wendy's TWOW
-Weny S0
 Weny S1
 Windows S1
 Woodsie S1
@@ -504,3 +503,7 @@ TPOT S1
 Foamy S1
 dom cos S2
 weee S3
+G&A All Stars
+Derg S1
+Bacon S2
+Presidency S2

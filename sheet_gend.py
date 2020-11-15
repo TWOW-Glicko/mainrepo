@@ -64,7 +64,7 @@ def findrating(data, rdate):
 	return (score,rm,rd,rp)
 	
 official = input('Official? (y/n): ')
-CUTOFF = 1 + 4*(official == 'y') 				#Min number of rounds to be included
+CUTOFF = 100 + 1000*(official == "n")				#Min number of rounds to be included
 
 #Give me a day!
 print('Date to generate? (YYMMDD)')
@@ -93,9 +93,16 @@ for i in range(7):
 			sresult[name]['RD'] = rd
 			sresult[name]['RP'] = rp
 
+for name,rating in sresult.items():
+	ranking.append(rating['Score'])
+
+ranking.sort(reverse = True)
+top100 = ranking[100]
+
+ranking = []
 for name, rating in sresult.items():	#Cycles through all names (rating = list [Score, RM, RD, RP])
 	score = rating['Score']
-	if rating['RP'] >= CUTOFF:						#Check if RP reaches the cutoff
+	if score > top100 or rating['RD'] <= CUTOFF:						#Check if RP reaches the cutoff
 		ranking.append([score, 5*rating['RM'], 5*rating['RD'], rating['RP'], name])	#Add new element to list with contestant data
 
 ranking.sort(reverse=True)						#sort ranking from highest to lowest score (to get actual rankings)
@@ -112,6 +119,12 @@ default2 = NamedStyle(name='default2')
 default2.alignment = Alignment(horizontal='center', vertical='center')
 default2.fill = PatternFill('solid', fgColor='212121')
 default2.font = Font(name='Assistant', color='e6e6e6', size=13)
+
+#darkened = faded cell style (used in contestants with >500 RD in the top 100)
+darkened = NamedStyle(name='darkened')
+darkened.alignment = Alignment(horizontal='center', vertical='center')
+darkened.fill = PatternFill('solid', fgColor='111111')
+darkened.font = Font(name='Assistant', color='727272', size=13)
 
 #set first row size
 ws.row_dimensions[1].height = 23
@@ -131,13 +144,31 @@ ws['D1'].value = 'RM'
 ws['E1'].value = 'RD'
 ws['F1'].value = 'RP'
 
+#Number of players skipped due to RD cutoff, for rank correction
+s = 0
+
 #Filling it in!
 for i in range(len(ranking)):							#Cycle across all contestants in order of rank, i = rank-1
+	if ranking[i][2] <= CUTOFF*5:
+		darker_row = False
+	else:
+		s += 1
+		darker_row = True
+		
+	brightness = 0.5 + 0.5 * (not darker_row)
+
 	ws.row_dimensions[i+2].height = 23					#set height of row
 	ws.cell(row=i+2, column=1).style = default			#set first column black
-	ws.cell(row=i+2, column=1).value = i+1				#Put ranks in first column
+	
+	if not darker_row:									#Put rank in first column if <=500 RD
+		ws.cell(row=i+2, column=1).value = i+1-s		#Omit the rank otherwise
+	
 	for j in range(2, 8):							#Across all of the columns,
-		ws.cell(row=i+2, column=j).style = default2		#set style (of cell)
+		if darker_row:
+			ws.cell(row=i+2, column=j).style = darkened #set darker cell style
+		else:	
+			ws.cell(row=i+2, column=j).style = default2	#set normal cell style
+	
 		ws.cell(row=i+2, column=j).number_format = '0'	#set format	(of cell)
 	ws.cell(row=i+2, column=7).style = default			#set divider black
 	
