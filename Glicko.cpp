@@ -105,10 +105,14 @@ int main() {
 	string contestant;
 	
 	ofs.open("result.json");
+	ofs.precision(17);
 	dofs.open("resultdaily.json");
+	dofs.precision(17);
 	ifs.open("data/index.txt");
 	jrs.open("rounds.json");
+	jrs.precision(17);
 	cms.open("history.json");
+	cms.precision(17);
 
 	string s, t;
 	while (getline(ifs, s)) { // reads in every season to look for
