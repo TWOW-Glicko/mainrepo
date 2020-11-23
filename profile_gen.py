@@ -19,7 +19,9 @@ def parity(num):
 	
 def indexed(num):
 	numstring = str(num)
-	if num%10 == 1:
+	if 10 <= num % 100 <= 20:
+		numstring += 'th'
+	elif num%10 == 1:
 		numstring += 'st'
 	elif num%10 == 2:
 		numstring += 'nd'
