@@ -508,4 +508,3 @@ Derg S1
 Bacon S2
 Presidency S2
 Italic S5
-BinaryEmpire S1
