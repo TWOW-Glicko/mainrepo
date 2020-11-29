@@ -21,7 +21,7 @@ Amazanzanpotato
 MiiVertex
 Cinnamon
 Samba
-TurtleGunner
+turtlegunner
 Dunkel Blau
 Gregg
 Neon

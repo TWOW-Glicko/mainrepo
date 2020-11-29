@@ -49,7 +49,7 @@ with open('rounds.json',encoding = 'utf-8') as f:
 
 g = open('profiles/' + CONTST + '.txt','w',encoding = 'utf-8')	#input profile info into g
 
-for i in range(0,CURRENT+1):			#i goes across month-1s
+for i in range(0,max(CURRENT+1, len(history))):			#i goes across month-1s
 	if CONTST in result[i].keys():			#check if contestant has rating that month
 		g.write(''+months[i%12]+" \'"+str((i+192)//12))		#month name 
 		g.write('\n') 				#Spacing between MONTH and data

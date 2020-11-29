@@ -25,25 +25,27 @@ AppData
 blank
 ~blank~
 🎃 ツタージャ495 🎃
-★ ~テールナー~ ★
+Nàgannach
 🎃ツタージャ495🎃
-★ ~テールナー~ ★
+Nàgannach
 Tairenar
-★ ~テールナー~ ★
+Nàgannach
 Tsauaja495
-★ ~テールナー~ ★
+Nàgannach
 Tsutaja475
-★ ~テールナー~ ★
+Nàgannach
 Tsutaja485
-★ ~テールナー~ ★
+Nàgannach
 Tsutaja495
-★ ~テールナー~ ★
+Nàgannach
 ツタージャ495
-★ ~テールナー~ ★
+Nàgannach
 ❀ ~テールナー~ ❀
-★ ~テールナー~ ★
+Nàgannach
 🎃ツタージャ495🎃
+Nàgannach
 ★ ~テールナー~ ★
+Nàgannach
 Darbian
 ☆Darbian☆
 0AS1S
@@ -326,6 +328,8 @@ emotionalduality
 Azimuthal
 Skystrike
 azure
+SkyStrike
+azure
 CH/IP
 Azurite
 Ivory
@@ -369,6 +373,8 @@ Ben1178
 AwesomeUniverse
 Bevan
 🥝 bii 🥝
+bii
+🍓 bii 🍓
 bii
 Bii
 bii
@@ -2728,6 +2734,8 @@ kitsch
 Tsukiwuki
 Kitsch
 Tsukiwuki
+Kitschen
+Tsukiwuki
 Turtley
 turtley
 TBladez
@@ -3108,3 +3116,17 @@ Wsnpnlb98j
 黑田松下
 チェス "グラン-ト-マスター
 グラント
+Commentator Kris
+Kristoffer
+Xx_TWOW_Fan_xX
+A_Riley_Fan
+Nick
+Nicholas Abbott
+Samara (Demosprite)
+Samara / Takaoi
+AeroSpare13
+Aero_Spare13
+BeastMaster
+BeastMaster64
+tw03
+two3
