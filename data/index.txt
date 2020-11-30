@@ -465,7 +465,6 @@ Poly S1
 Poly S
 Colts S1
 Bacon S1
-LTLITS S1
 SamSam S1
 TUY S1
 Lab S1
@@ -508,3 +507,7 @@ Derg S1
 Bacon S2
 Presidency S2
 Italic S5
+LTLITS S2
+20Bit S3
+Triko S1
+Delta S1
