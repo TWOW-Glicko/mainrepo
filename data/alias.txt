@@ -384,6 +384,8 @@ BipedeBaritone
 Bipede
 BipedeValorious
 Bipede
+valdergie
+Bipede
 biscuitmeister
 biscuitmistress
 biscuitmeisterin
@@ -446,6 +448,8 @@ BlueVSRed
 BlueVsRed
 BluevsRed
 BlueVsRed
+bobaskank
+bobashank
 book ying yang
 Book Ying Yang
 BPrice1998
@@ -768,6 +772,8 @@ Dizzybounce
 dizzy
 espresso
 dizzy
+Dizzy
+dizzy
 Dogception
 dogception
 Islandkit
@@ -829,6 +835,8 @@ Dunkel Blau
 Dylanhebuilder
 Dylanthebuilder
 Ean Estone
+Ean EStone
+EanEStone
 Ean EStone
 EdgedPixel
 EdgedPixie
@@ -978,6 +986,8 @@ Fitnesscito
 fitatfi
 heerf
 fitatfi
+DiamondTrash13
+fitatfi
 FireBlueBerryShinyFace
 Floofy
 FireBlueBerry
@@ -987,13 +997,17 @@ Floofy
 Loneful
 Floofy
 Foamyandres1 (Foam Soap)
-Foam soap
+Foam Soap
 Foamyandres1
+Foam Soap
 Foam soap
+Foam Soap
 fonda
 fonda1515
 Fonda1515
 fonda1515
+ForeverBelong
+ForeverBelonging
 BasiliskTheJuggernaut
 Formula E
 Fork
@@ -1414,6 +1428,10 @@ Just AnotherGamer
 JustAnotherGamer
 JustAnotherGamerツ
 JustAnotherGamer
+Moxie Boxie
+JustBready
+MoxieBoxie
+JustBready
 JustSomeDollarDude...
 JustSomeDollarDude
 justthebomb “justthebo50” blue
@@ -1920,8 +1938,6 @@ Mirce
 Mothman
 illumni
 Mothman
-Moxie Boxie
-MoxieBoxie
 mozart
 moziet
 Scheherazade
@@ -1954,6 +1970,8 @@ Yoylecake
 murasaki
 kimidori
 murasaki
+delta#8517
+MysteriousGrimReaper
 MysticKittypet
 MysticSaysHi
 MysticssssSaysHi
@@ -2546,6 +2564,8 @@ Stephen_Bowling0715
 Stephen Bowling
 TakAjninJr
 Su_TartEmpire
+Su_Tart Empire
+Su_TartEmpire
 Le Adam.
 Subwoofer
 Woodsie
@@ -2654,6 +2674,8 @@ terminatedslime789
 test994
 ukkihcusarupustubukay
 test994
+ى඾Ǜڿೢ૴னཹܾຟؗ֗಺ਸ਼ా˯¶ණ߷ݞɧ༅ૼռౕ౟࠷ษʐླྀয
+test994
 TeTran
 Tetran612
 TGImin
@@ -2715,6 +2737,8 @@ TheRandomSapphire
 TheUnwatchedYouTuber
 TheUnwatchedYoutuber
 thomascakr4000
+thomasgamer400
+thomasgamer4000
 thomasgamer400
 TieTIePerson
 TieTiePerson

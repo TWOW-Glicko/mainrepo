@@ -508,6 +508,6 @@ Bacon S2
 Presidency S2
 Italic S5
 LTLITS S2
-20Bit S3
+Chip S3
 Triko S1
 Delta S1
