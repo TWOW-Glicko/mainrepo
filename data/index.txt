@@ -511,3 +511,7 @@ LTLITS S2
 Chip S3
 Triko S1
 Delta S1
+Anjou S1
+kleintwow
+MRFE
+
