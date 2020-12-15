@@ -485,7 +485,6 @@ SlimeGamer S2
 G&A One Offs
 Legit S1
 Marblime S3
-poopy S1
 Gamey S1
 sparky S2
 TWOWAS S2.5
@@ -512,3 +511,7 @@ Chip S3
 Triko S1
 Delta S1
 Anjou S1
+CohakiHOW S1
+EWOW S3
+TWOWorg S1
+Paradise S1
