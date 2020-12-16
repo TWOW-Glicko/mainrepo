@@ -19,7 +19,7 @@ tr_
 PokeLeaf
 joss
 Obesidora
-wyatt
+wyattcs
 AnEpik
 RazorForce21
 MetaCyde
