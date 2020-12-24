@@ -1101,15 +1101,17 @@ geobica
 GeoFeld
 GeoField
 GizmoDube8128
-Gizmode
+Gizmote
 Gizmodude8128
-Gizmode
+Gizmote
 Gizmo
-Gizmode
+Gizmote
 GizmoDude
-Gizmode
+Gizmote
 GizmoDude8128
+Gizmote
 Gizmode
+Gizmote
 ▄█GraalPK█▄
 Graal
 ▄█GraalPK█▄ = graalanimations
@@ -1196,6 +1198,8 @@ Hi Dar
 Hi dar
 Hi_dar
 Hi dar
+Boomerang Baby
+High Noob
 hillury
 hil
 SaNoy
@@ -1301,6 +1305,8 @@ Illycadia
 Arcadia
 Illycadia
 Y'all are communist.
+Illycadia
+A Bore.
 Illycadia
 Imagin4
 Imagine4
@@ -2332,6 +2338,8 @@ Broken Vacuum
 Ragu Pasta Sauce
 A Broken Vacuum
 Ragu Pasta Sauce
+Rain
+rain
 -+=(RaineStorm)=+-
 RaineStorm
 RaioKnight
@@ -2506,6 +2514,8 @@ Skyfighter009
 skyfighter009
 The Slime Bros
 SLIME BROS
+XxSlime_GamerxX
+SlimeGamer7
 Slime
 SlimeMan
 snoot
@@ -2964,6 +2974,8 @@ Zoroark Disguise: wai_yau
 wai_yau
 Wam pum
 Wam Pum
+Tear Drop.
+Watermelon'
 Wuigi
 Wenyunity
 WenyUnity
